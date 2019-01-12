@@ -1,0 +1,16 @@
+For this project I have chosen to do a simple calculator that adds, subtracts, divides and multiplies whole numbers.
+Using floats, structures, linked lists, functions.... I created a pretty neat calculator 
+Now since the calculator program was very long and wouldn’t look nice in the main function I put it into a int
+function since it returns and put the function at the bottom, so it would look neater. I also created a ascii logo
+of my name as a void function and placed it at the bottom. When making these functions I declared them at the top
+of the code so the int main can declare them.  I also created a structure to store elements of my age, 
+gender, year, university.
+
+Use CodeBlocks to open file!
+
+Creator:
+Liibaan Mohammed
+
+
+
+ 

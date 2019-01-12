@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512236882 source:f:\project c++\project done\main.cpp
+	<iostream>
+	<string>
+
+1512249281 source:c:\users\liibaan\desktop\project c++\project done\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+
